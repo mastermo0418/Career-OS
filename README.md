@@ -1,6 +1,13 @@
 # CareerOS
 
 CareerOS is a full-stack job application tracking web application designed to help users organize and manage their job search. Users can add applications, update their progress through the hiring process, search and filter applications, and view statistics from a simple dashboard.
+## Screenshots
+
+### Dashboard & Application Form
+![CareerOS Dashboard](docs/career-os-dashboard.png)
+
+### Application Management
+![CareerOS Applications](docs/career-os-applications.png)
 
 ## Features
 
